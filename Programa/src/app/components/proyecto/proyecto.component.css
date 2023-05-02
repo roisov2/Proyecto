@@ -9,3 +9,7 @@
     display: inline-block;
     text-align: justify;
 }
+.img-proyecto{
+    box-shadow: 15px 15px 35px #000000;
+    box-shadow: ejeX ejeY difumasion color;
+}
